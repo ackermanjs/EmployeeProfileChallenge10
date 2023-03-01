@@ -12,6 +12,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  padding-top: 2rem;
 }
 .employee-card {
   display: flex;
@@ -28,7 +29,8 @@
   height: fit-content;
   background: rgb(46, 46, 46);
   color: white;
-  padding-left: 0.5rem;
+  padding-left: 1rem;
+  line-height: 1.5em;
 }
 .card-name {
   padding-top: 0.5rem;
